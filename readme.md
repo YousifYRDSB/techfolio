@@ -1,2 +1,2 @@
-Website portfolio for school project
-Made with ReactJs
+Website portfolio for exploring technologies - school project
+
